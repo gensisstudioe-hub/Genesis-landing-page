@@ -1,0 +1,11 @@
+# CHANGELOG — GENESIS VENTURE STUDIO
+
+## v1.0 — Initial Release (Nov 2025)
+- Added full project structure
+- Uploaded banners & assets
+- Integrated Drive videos & GitHub RAW images
+- Added README, ROADMAP, and documentation structure
+- Launched public version of website
+
+---
+Changelog follows the Keep a Changelog format.
